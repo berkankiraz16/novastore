@@ -6,8 +6,7 @@ NovaStore E-Ticaret sistemi için React ve Vite kullanılarak geliştirilmiş, m
 
 Bu proje, gerçek bir veritabanı bağlantısı olmadan **localStorage** kullanılarak CRUD (Oluştur, Oku, Güncelle, Sil) işlemlerinin nasıl simüle edilebileceğini göstermek amacıyla hazırlanmıştır.
 
-🔗 **Canlı Demo:** [Projeyi İncele](agent-69b7e5e7b6be7f2--tourmaline-truffle-9b5537.netlify.app)
-
+🔗 **Canlı Demo:** [Projeyi İncele](https://agent-69b7e5e7b6be7f2--tourmaline-truffle-9b5537.netlify.app)
 ---
 
 ## ✨ Özellikler
